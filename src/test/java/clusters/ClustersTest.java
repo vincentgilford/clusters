@@ -57,7 +57,7 @@ public class ClustersTest {
 	}
 	
 	@Test
-	public void testForOneClusterAgain() {
+	public void testForTwoClusters() {
 		//arrange
 		int[] numbers = {1,4,4,4,9,6,6,7};
 		Clusters underTest = new Clusters(numbers);
